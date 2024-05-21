@@ -3,6 +3,7 @@ python script transfer  photo content to text
 
 # Install requirement
 sudo apt-get update
+
 sudo apt-get install tesseract-ocr
 # Install Python lib
 pip install pytesseract pillow
